@@ -8,3 +8,4 @@ def is_even_or_odd(number):
 number = 7
 result = is_even_or_odd(number)
 print(f"The number {number} is {result}")
+
